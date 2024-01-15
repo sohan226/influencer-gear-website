@@ -89,10 +89,10 @@ a{
     background-image: url('../images/Circle\ design.svg');
 }
 
-/* icon section 
+/* icon section  */
 .icon-section{
     max-width: 1440px;
     margin: 70px 165px 100px 165px;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-} */
+}
