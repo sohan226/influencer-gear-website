@@ -177,7 +177,7 @@ a{
 }
 
 /* featured section  */
-/* .featured{
+.featured{
     display: flex;
     justify-content: space-around;
     margin: 100px 165px;
@@ -202,4 +202,4 @@ a{
 }
 .btn-primary-2{
     border-radius: 0;
-} */
+}
